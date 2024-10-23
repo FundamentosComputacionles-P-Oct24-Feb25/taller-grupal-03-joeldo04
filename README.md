@@ -1,6 +1,8 @@
 # TallerGrupal03
 
 # Integrantes:
+Carlos Correa
+Joel Dominguez
 
 
 
